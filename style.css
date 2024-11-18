@@ -25,7 +25,7 @@ body {
 }
 .ullist1 {
     color: pink;
-    list-style: decimal;
+    list-style: disc;
 }
 .ullist2 {
     color: rebeccapurple;
@@ -33,5 +33,5 @@ body {
 }
 .ullist3 {
     color: peru;
-    list-style:georgian
+    list-style: georgian;
 }
