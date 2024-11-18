@@ -1,0 +1,37 @@
+.nadpis1 {
+    color: blueviolet;
+}
+.nadpis2 {
+    background-color:red;
+}
+.nadpis3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-image: url(pole.jpg);
+    background-size: auto;
+}
+.ollist1 {
+    color: black;
+    list-style: upper-roman;
+}
+.ollist2 {
+    color: white;
+    list-style: upper-roman;
+}
+.ollist3 {
+    color: yellowgreen;
+    list-style: upper-roman;
+}
+.ullist1 {
+    color: pink;
+    list-style: decimal;
+}
+.ullist2 {
+    color: rebeccapurple;
+    list-style: square;
+}
+.ullist3 {
+    color: peru;
+    list-style:georgian
+}
